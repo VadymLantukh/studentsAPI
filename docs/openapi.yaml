@@ -13,8 +13,7 @@ tags:
   - name: Auth
     description: Auth operations.
 servers:
-  - url: http://localhost:3000
-  - url: https://example.com/api/v1
+  - url: https://studentsapi-gemi.onrender.com
 paths:
   /students:
     get:
