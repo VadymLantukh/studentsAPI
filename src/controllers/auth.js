@@ -100,7 +100,7 @@ export const getGoogleOAuthUrlController = async (req, res) => {
 
     res.json({
       status: 200,
-      message: 'Successfully get Google OAuth url',
+      message: 'Successfully get Google OAuth URL',
       data: {
         url,
       },
