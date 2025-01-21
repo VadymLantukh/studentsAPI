@@ -1,4 +1,5 @@
 import createHttpError from 'http-errors';
+
 import { ROLES } from '../constants/roles.js';
 import { StudentsCollection } from '../db/student.js';
 
